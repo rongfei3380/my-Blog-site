@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2017 -A New Beginning"
-subtitle:   "Hello 2017, Baybay 2016！"
+subtitle:   "Hello 2017, Goodbye 2016！"
 date:       2017-01-02 11:20:00
 author:     "chengfeir"
 header-img: "img/post-bg-alitrip.jpg"
