@@ -13,14 +13,14 @@ tags:
 
 # 代码示例下载
 
-http://shop.oreilly.com/product/9780596805531.do
+[http://shop.oreilly.com/product/9780596805531.do](http://shop.oreilly.com/product/9780596805531.do)
 
-http://examples.oreilly.com/9780596805531/
+[http://examples.oreilly.com/9780596805531/](http://examples.oreilly.com/9780596805531/)
 
 # 调试工具
 
 Firefox 上的调试工具 FireBug 
-下载地址：http://getfirebug.com/
+下载地址：[http://getfirebug.com/](http://getfirebug.com/)
 
 # 调试语法
 
