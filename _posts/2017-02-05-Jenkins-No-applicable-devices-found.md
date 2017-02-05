@@ -12,9 +12,9 @@ tags:
 ---
 Jenkins 打包遇到问题log如下：
 
-2017-02-03 16:33:50.722 xcodebuild[20625:7527545] [MT] IDEDistribution: Step failed: <IDEDistributionThinningStep: 0x7f7fa8ab6c00>: Error Domain=IDEDistributionErrorDomain Code=14 "No applicable devices found." UserInfo={NSLocalizedDescription=No applicable devices found.}
-error: exportArchive: No applicable devices found.
-Error Domain=IDEDistributionErrorDomain Code=14 "No applicable devices found." UserInfo={NSLocalizedDescription=No applicable devices found.}
+    2017-02-03 16:33:50.722 xcodebuild[20625:7527545] [MT] IDEDistribution: Step failed: <IDEDistributionThinningStep: 0x7f7fa8ab6c00>: Error Domain=IDEDistributionErrorDomain Code=14 "No applicable devices found." UserInfo={NSLocalizedDescription=No applicable devices found.}
+    error: exportArchive: No applicable devices found.
+    Error Domain=IDEDistributionErrorDomain Code=14 "No applicable devices found." UserInfo={NSLocalizedDescription=No applicable devices found.}
 
 http://stackoverflow.com/questions/33041109/xcodebuild-no-applicable-devices-found-when-exporting-archive 给出了问题，是说rvm的冲突问题，但是使用的 system ruby之后，仍然是同样的错误导致打包失败。
 
