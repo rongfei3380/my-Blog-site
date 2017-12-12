@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "这里是开始"
+title:      "我的简历"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-12-9 00:25:00
+date:       2017-12-12 10:25:00
 author:     "chengfeir"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
